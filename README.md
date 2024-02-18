@@ -7,7 +7,7 @@ If the guessed letter is not in the word, a part of the 'hangman' is drawn.
 
 Python console app hangman game based on the [code](https://github.com/markpatterson27/hangman-game) by [Mark Patterson](https://github.com/markpatterson27)
 
-# Assignment
+# Assignment, test
 
 > :warning: **Note**: **Lab is counted as done, if you have your app is running on server, and pipelines are passing.**
 
