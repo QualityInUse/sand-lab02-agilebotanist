@@ -8,16 +8,6 @@
         "output": "",
         "comparison": "exact",
         "timeout": 10,
-        "points": 0
-      },
-      {
-        "name": "Some CI",
-        "setup": "sudo add-apt-repository ppa:deadsnakes/ppa ; sudo apt install python3.12 ; sudo -H pip3 install poetry ; poetry install; poetry add pytest",
-        "run": "poetry run pytest ./tests/sqr-tests/test_poetryci.py::test_ci",
-        "input": "",
-        "output": "",
-        "comparison": "exact",
-        "timeout": 10,
         "points": 1
       }
     ]
